@@ -1,0 +1,16 @@
+# Ignorar carpetas privadas
+Revisiones-privado/
+
+# Ignorar temporales de Word y macOS
+*.tmp
+*.bak
+~$*.docx
+*.ppt
+*.pptx
+*.DS_Store
+*.docx
+.Rproj.user
+.DS_Store
+
+# Ignorar archivos de sistema
+Thumbs.db
