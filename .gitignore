@@ -10,6 +10,7 @@ Revisiones-privado/
 *.DS_Store
 *.docx
 .Rproj.user
+.Rhistory
 .DS_Store
 
 # Ignorar archivos de sistema
