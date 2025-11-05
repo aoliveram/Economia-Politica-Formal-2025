@@ -1,5 +1,6 @@
 # Ignorar carpetas privadas
 Revisiones-privado/
+dataverse_files/
 
 # Ignorar temporales de Word y macOS
 *.tmp
